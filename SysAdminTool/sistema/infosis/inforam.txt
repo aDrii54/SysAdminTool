@@ -1,3 +1,0 @@
-              Total        Usado        Libre      Compartida  buff/cache   Disponible
-Memoria:        1000312      157480      254800        1164      588032      686912
-Swap:       4106232           0     4106232
